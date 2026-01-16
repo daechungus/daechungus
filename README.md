@@ -1,4 +1,4 @@
-<p align="center"> ## Hi there, I'm Dae Hoon 👋 </p>
+<h1 align="center"> Hi there, I'm Dae Hoon 👋 </h1>
 
 Working on systems and applied research (focusing on training and evaluation). Previously built tooling and prototypes across multiple product/engineering teams and currently testing optimizations for ML systems. 
 
