@@ -2,9 +2,12 @@
 
 <p align="center"> 
 Working on systems and applied research (focusing on training and evaluation). Previously built tooling and prototypes across multiple product/engineering teams and currently testing optimizations for ML systems. 
+</p>
 
+<p align="center"> 
 Interested in machine learning systems and quantitative modeling (pricing) while studying Mathematics, Economics, and Computer Science @ UCLA. 
 </p>
+
 <!--
 **daechungus/daechungus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
