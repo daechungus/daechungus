@@ -1,11 +1,10 @@
 <h1 align="center"> Hi there, I'm Dae Hoon 👋 </h1>
 
 <p align="center"> 
-Working on systems and applied research (focusing on training and evaluation). Previously built tooling and prototypes across multiple product/engineering teams and currently testing optimizations for ML systems. 
-</p>
+Currently working on model compression, low latency inference, and optimizing kernels to accelerate inference without signal degradation (please hmu if you have suggestions). Still tuning market topology and information diffusion delays. Previously built tooling and applications across product/engineering teams. </p>
 
 <p align="center"> 
-Interested in machine learning systems and quantitative modeling (pricing) while studying Mathematics, Economics, and Computer Science @ UCLA. 
+Interested in Cuda optimization, quantization, and high frequency data systems while studying Mathematics, Economics, and Computer Science @ UCLA. 
 </p>
 
 <!--
