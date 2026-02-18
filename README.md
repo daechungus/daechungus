@@ -4,7 +4,11 @@
 Currently working on model compression, low latency inference, and optimizing kernels to accelerate inference without signal degradation (please hmu if you have suggestions). Still tuning market topology and information diffusion delays. Previously built tooling and applications across product/engineering teams. </p>
 
 <p align="center"> 
-Interested in Cuda optimization, quantization, and high frequency data systems while studying Mathematics, Economics, and Computer Science @ UCLA. 
+Interested in Cuda optimization, quantization, and high frequency data systems while studying Mathematics, Economics, and CS @ UCLA.  
+</p>
+
+<p align="center">
+Feel free to reach out to me if you would like to work and build together. Otherwise I'll be building whatever shower thoughts I get.
 </p>
 
 <!--
