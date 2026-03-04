@@ -8,7 +8,7 @@ Interested in Cuda optimization, quantization, and high frequency data systems w
 </p>
 
 <p align="center">
-Feel free to reach out to me if you would like to work and build together. Otherwise I'll be building whatever shower thoughts I get.
+If you know how to make 2:4 sparse tensor cores commercially viable by closing the performance gap with dense models, please let me know :)
 </p>
 
 <!--
