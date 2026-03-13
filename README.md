@@ -1,14 +1,14 @@
 <h1 align="center"> Hi there, I'm Dae Hoon 👋 </h1>
 
 <p align="center"> 
-Currently working on model compression, low latency inference, and optimizing kernels to accelerate inference without signal degradation (please hmu if you have suggestions). Still tuning market topology and information diffusion delays. Previously built tooling and applications across product/engineering teams. </p>
+Currently working on advancing the intersection between building tools, platforms, or environments that accelerate the efficiency of humans and agents. Previously built tooling and applications across product/engineering teams. 
 
 <p align="center"> 
-Interested in Cuda optimization, quantization, and high frequency data systems while studying Mathematics, Economics, and CS @ UCLA.  
+Interested in anything related to data systems, finance, and enabling people to reach new efficiencies.
 </p>
 
 <p align="center">
-If you know how to make 2:4 sparse tensor cores commercially viable by closing the performance gap with dense models, please let me know :)
+Studying Mathematics, Economics, and CS @ UCLA.  
 </p>
 
 <!--
